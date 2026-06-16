@@ -170,7 +170,7 @@ class Program
 
 
 
-        // Wypełnij planszę niewidocznymi polami.
+        // Wypełnij planszę niewidocznymi polami
 
         for (int i = 0; i < height; i++)
 
