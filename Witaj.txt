@@ -1,0 +1,2 @@
+Witaj w moim pierwszym repozytorium.
+To jest plik testowy dodany w ramach ćwiczenia z GitHub.
