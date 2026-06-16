@@ -74,7 +74,7 @@ class Program
 
                         {
 
-                            // Odkryj sąsiadujące puste pola.
+                            // Odkryj sąsiadujące puste pola
 
                             ExpandZeros(board, displayBoard, x, y);
 
